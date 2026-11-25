@@ -1,0 +1,1 @@
+console.log("My fridge's ice maker hasn't worked since 2019, yet it still clatters like a blender eating gravel every 45 minutes - basically a $1400 humming box that chills one jar of expired capers.");
